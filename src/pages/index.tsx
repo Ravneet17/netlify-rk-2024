@@ -8,7 +8,7 @@ export default function Index() {
       <Nav title="Netlify Workshop" />
       <section className="flex columns">
         <div>
-          <h2>Rendering strategies</h2>
+          <h3>Rendering strategies</h3>
           <ul>
             <li>
               <Link href="/rendering-strategies/ssg">
